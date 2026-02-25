@@ -20,7 +20,7 @@ O que fiz foi o seguinte: aqui acessamos todos os nossos hosts via SSH, então, 
 
 <img width="2012" height="2574" alt="terminus bug" src="https://github.com/user-attachments/assets/c531eb63-2868-4d17-82a6-1e3c407a02aa" />
 
-Ao fazer isso no momento da conexão, ele me pediu para escolher manualmente o SSH, e ao fazer isso o problema de quebra de linha simplesmente desapareceu. Desde então, não tivemos mais a quebra de linha em nenhum roteador ou SW 6750 e derivados.
+Ao fazer isso no momento da conexão, ele me pediu para escolher manualmente o SSH, e apos isso o problema de quebra de linha simplesmente desapareceu. Desde então, não tivemos mais a quebra de linha em nenhum roteador ou SW 6750 e derivados.
 
 https://github.com/user-attachments/assets/60be9396-b45a-4515-97e7-f8a8eed0866e
 
